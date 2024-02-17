@@ -1,5 +1,7 @@
 # Customer-Churn-Analysis
 
+I leveraged **Python to devolop the model,analyze the data** and used **Power BI for creating Dashboards and Reporting** to draw actionable insights and Recommendations.
+
 
 **Objective:**
 
